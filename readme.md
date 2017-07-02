@@ -1,7 +1,8 @@
 # Useful tips and scripts for using ejs + express + mongodb
 This repo contains useful tips and scripts for creating a CRUD database using mongodb.  
 
-For an in depth essentials course, I recommend (https://www.udemy.com/the-complete-developers-guide-to-mongodb/learn/v4/overview) - The Complete Developers Guide to MongoDB, by Stephen Grider at Udemy.com
+For the tutorial I followed (https://zellwk.com/blog/crud-express-mongodb/).
+
 
 #### Why you should add to this repo?
 
